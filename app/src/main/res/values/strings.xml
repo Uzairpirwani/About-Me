@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">About me</string>
+    <string name="uzair_pirwani">Uzair Pirwani</string>
+    <string name="bio">My Name is uzair i am student of iqra university.\n\n\n\n
+    i love Playing games.\n\n\n\n\n
+    My favourite game is Minecraft.\n\n\n\n
+    I want to be a Android developer in Future.\n\n\n\n
+        is simply dummy text of the printing and typesetting industry..\n\n\n\n
+        Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book..\n\n\n\n
+        It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+    </string>
+    <string name="what_s_your_name">what\'s your name</string>
+    <string name="done">Done</string>
+</resources>
